@@ -22,7 +22,6 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dongin Kim"
 description              : "All About Data Analytics"
-avatar                   : "https://github.com/donginkim88/donginkim88.github.io/blob/master/images/memoji_00.png"
 url                      : "https://donginkim88.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Dongin, Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/memoji_00.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst with Focused Expertise in Behavioral Sciences and Business Analysis"
   location         : "Seoul"
   email            : "donginkim88@gmail.com"
